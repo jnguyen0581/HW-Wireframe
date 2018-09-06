@@ -12,20 +12,22 @@ body {
 }
 
 header, footer {
-    padding: 30px;
+    padding: 10px;
     margin-bottom: 10px;
     background-color: #ebebeb;
+    height: 200px;
 }
 
 nav {
-    padding: 30px;
-    margin-bottom: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
     background-color: #ebebeb; 
+    height: 200px;
 }
-
 
 .container {
     width: 495px;
+    height:400px;
     background-color: #ebebeb;
     padding: 20px;
     margin-bottom: 20px;
@@ -38,7 +40,7 @@ nav {
     float: right;
     position: relative;
     width: 495;
-    height: 
+    height: 400px
 }
  .headers, .paragraph {
      padding: 20px;
@@ -56,9 +58,8 @@ nav {
  } */
 
  body {
-    background-color: #777777;
-    color: #777777;
-    font-family: 'Times New Roman', Times, serif';
+    background-color: #777;
+    color: #777;
 }
 
 .full {
@@ -69,10 +70,11 @@ nav {
    position: absolute;
    width: 960px;
 }
+
 header, nav, section, aside, footer {
    background-color: #ebebeb;
-   color: #777777;
-   padding: 15px;
+   color: #777;
+   padding: 5px;
    margin-top: 15px;
    text-align: center;
 }
@@ -86,9 +88,9 @@ section {
 
 aside {
    float: left;
-   width: 390px;
+   width: 415px;
    height: 300px;
-   margin-left: 15px;
+   margin-left: 25px;
 }
 
 footer {
